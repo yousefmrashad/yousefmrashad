@@ -19,9 +19,10 @@ AI & ML Engineer and graduate student. I focus on deep learning, autonomous syst
 
 | Category | Technologies |
 | :--- | :--- |
-| **AI & Machine Learning** | LLM development, RAG architectures, LangChain, LangGraph, PyTorch, Scikit-Learn |
-| **Backend & Infrastructure** | FastAPI, Pulumi (IaC), AWS (Lambda, core services), Docker, Kubernetes |
-| **Data & Core** | Python (async/concurrent), SQL, Pandas, NumPy, GitHub Actions (CI/CD) |
+| **Deep Learning & ML** | Advanced Deep Learning with PyTorch, Fine-Tuning & Transfer Learning, Model Quantization, HF Accelerate, MLflow, Optuna, Scikit-Learn |
+| **Generative AI & LLM Systems** | LLM Application Development, Advanced & Agentic RAG Architectures, Agent Orchestration (LangChain, LangGraph), Vector Databases |
+| **Backend & Infrastructure** | FastAPI, Pulumi (IaC), AWS, Docker, Kubernetes, Linux |
+| **Data & Core** | Python, SQL, Pandas, NumPy, GitHub Actions (CI/CD) |
 
 ---
 
