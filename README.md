@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Youssef Rashad</h1>
+<img src="assets/name-charter.svg" alt="Youssef Rashad" width="380" />
 
 AI & ML Engineer and graduate student. I focus on deep learning, autonomous systems, and agentic workflows, bridging the gap between AI research and production-ready engineering.
 
